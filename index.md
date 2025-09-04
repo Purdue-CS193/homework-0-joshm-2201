@@ -1,7 +1,7 @@
 ## Josh CS 193 HW0
-cool TAs
-easy homework
-easy grading
+- cool TAs
+- easy homework
+- easy grading
 
 ## Welcome to GitHub Pages
 
